@@ -1,5 +1,6 @@
-# keunhong.github.io
+# Stolen from keunhong.github.io
 
+- Thanks to [keunhong](https://github.com/keunhong/keunhong.github.io) for the code!
 - Feel free to borrow this template.
 - Make sure to update all relevant fields in `_config.yml` and `_data`.
 
