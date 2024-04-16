@@ -1,0 +1,21 @@
+- id: stclip
+  title: "ST-CLIP: Spatio-Temporal enhanced CLIP towards Dense Video Captioning"
+  venue: arXiv, 2024
+  description: "Proposing a new factorized spatio-temporal self-attention paradigm to address inaccurate event descriptions caused by insufficient temporal relationship modeling between video frames and apply it to dense video captioning tasks."
+  project_page: https://reconfusion.github.io
+  arxiv: 2312.02981
+  image: reconfusion_before.png
+  image_mouseover: reconfusion_after.mp4
+  authors:
+    - rundiwu
+    - bmild
+    - phenzler
+    - huangmr
+    - ruiqigao
+    - danielwatson
+    - pratuls
+    - dorverbin
+    - barron
+    - pooleb
+    - holynski
+
