@@ -23,7 +23,9 @@ name: Mingru Huang
 position: Master's degree student 
 email: huangmr0719@outlook.com
 description: >-
-  I am Master's degree student in Wuhan University of Technology.
+  I am Master's degree student in Wuhan University of Technology. 
+  
+  I am more interested in the research of visual language model and video understanding. At the same time, I have some understanding of the large language model and the multi-modal large model.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ZyKINvice.cn" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZyKINvice
