@@ -25,7 +25,9 @@ email: huangmr0719@outlook.com
 description: >-
   I am Master's degree student in Wuhan University of Technology. 
   
-  I am more interested in the research of visual language model and video understanding. At the same time, I have some understanding of the large language model and the multi-modal large model.
+  I'm interested in research in computer vision, particularly video understanding. My research includes video Q&A, video-text retrieval, and video captioning, etc.
+  Meanwhile, I  also have some research and practice in large language models, basic operator optimization, knowledge graphs, and Q&A systems.
+  I hope to make a foundational video comprehension model and ultimately a large multimodal model that is affordable, secure and trustworthy for everyone.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ZyKINvice.cn" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZyKINvice
