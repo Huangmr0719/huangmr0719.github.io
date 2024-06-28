@@ -1,6 +1,6 @@
 - id: stclip
   title: "ST-CLIP: Spatio-Temporal enhanced CLIP towards Dense Video Captioning"
-  venue: ICIC 2024
+  venue: 2024 Twentieth International Conference on Intelligent Computing (ICIC 2024)
   description: "Proposing a new factorized spatio-temporal self-attention paradigm to address inaccurate event descriptions caused by insufficient temporal relationship modeling between video frames and apply it to dense video captioning tasks."
   project_page: 
   arxiv: 
