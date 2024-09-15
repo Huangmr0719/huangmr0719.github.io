@@ -1,7 +1,7 @@
 - id: mvsa
   title: "Memory Enhanced Visual-Speech Aggregation Model for Dense Video Captioning"
   venue: Under review
-  description: "Introducing a novel Memory Enhanced Visual-Speech Aggregation model for dense video captioning, inspired by cognitive informatics on human memory recall. The model constructs a memory bank from ground truth captions and enhances visual representations by merging them with relevant text features retrieved through multimodal memory retrieval involving transcribed speech and visual inputs. A specialized Memory Enhancement Transformer facilitates the integration of visual features with these multimodal retrieval features. "
+  description: "Introducing a Memory Enhanced Visual-Speech Aggregation model for dense video captioning, inspired by cognitive informatics on human memory recall. The model enhances visual representations by merging them with relevant text features retrieved from a memory bank through multimodal retrieval involving transcribed speech and visual inputs."
   project_page: 
   arxiv: 
   image: mvsa.png
