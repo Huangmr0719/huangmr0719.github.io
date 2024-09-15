@@ -19,7 +19,7 @@
   description: "Proposing a new factorized spatio-temporal self-attention paradigm to address inaccurate event descriptions caused by insufficient temporal relationship modeling between video frames and apply it to dense video captioning tasks."
   project_page: 
   arxiv: 
-  image: nvsa.png
+  image: mvsa.png
   image_mouseover: 
   authors:
     - huangmr
