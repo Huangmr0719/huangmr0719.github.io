@@ -13,3 +13,19 @@
     - guojy
     - xiongsw
 
+- id: mvsa
+  title: "Memory Enhanced Visual-Speech Aggregation Model for Dense Video Captioning"
+  venue: Under review
+  description: "Proposing a new factorized spatio-temporal self-attention paradigm to address inaccurate event descriptions caused by insufficient temporal relationship modeling between video frames and apply it to dense video captioning tasks."
+  project_page: 
+  arxiv: 
+  image: nvsa.png
+  image_mouseover: 
+  authors:
+    - huangmr
+    - duanpf
+    - zhangyf
+    - chenhm
+    - pengjw
+    - xiongsw
+
