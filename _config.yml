@@ -32,7 +32,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ZyKINvice.cn" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZyKINvice
 github_username: Huangmr0719
-# google_scholar: HVZb-5oAAAAJ
+google_scholar: NeFDR38AAAAJ
 # google_analytics: G-MFWSBLRKG0
 
 # Build settings
