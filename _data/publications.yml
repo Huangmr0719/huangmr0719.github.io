@@ -1,10 +1,10 @@
 - id: mvsa
-  title: "Memory Enhanced Visual-Speech Aggregation Model for Dense Video Captioning"
-  venue: Under review
+  title: "Scene Knowledge Enhanced Multimodal Retrieval Model for Dense Video Captioning"
+  venue: 2025 Twenty-first International Conference on Intelligent Computing (ICIC 2025)
   description: "Introducing a Memory Enhanced Visual-Speech Aggregation model for dense video captioning, inspired by cognitive informatics on human memory recall. The model enhances visual representations by merging them with relevant text features retrieved from a memory bank through multimodal retrieval involving transcribed speech and visual inputs."
   project_page: https://github.com/Huangmr0719/MVSA
   arxiv: 
-  image: mvsa.png
+  image: skmr.png
   image_mouseover: 
   authors:
     - huangmr
