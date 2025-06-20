@@ -14,6 +14,20 @@
     - pengjw
     - xiongsw
 
+- id: ldit
+  title: "LDIT: Pseudo-Label Noise Adaptation via Label Diffusion Transformer"
+  venue: 2025 Twenty-first International Conference on Intelligent Computing (ICIC 2025)
+  description: "We reformulate label prediction as a progressive refinement process starting from an initial random guess, and propose LDiT (Label Diffusion Transformer) for pseudo-label noise adaptation. By modeling label uncertainty through a diffusion process, LDiT enables more robust learning under noisy supervision. In addition, to effectively capture the long-range dependencies in textual data, we adopt a Transformer-based latent denoising architecture with self-attention mechanisms."
+  project_page: 
+  arxiv: 
+  image: ldit.png
+  image_mouseover: 
+  authors:
+    - pengjw
+    - duanpf
+    - huangmr
+    - xiongsw
+
 - id: stclip
   title: "ST-CLIP: Spatio-Temporal enhanced CLIP towards Dense Video Captioning"
   venue: 2024 Twentieth International Conference on Intelligent Computing (ICIC 2024)
